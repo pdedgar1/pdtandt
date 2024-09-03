@@ -5,3 +5,9 @@ This is my Intro to T&T respository using GitHub Desktop and Visual Studio Code.
 ## Features 
 - Feature 1 
 - Feature 2
+
+### Image of P.D. Edgar 
+
+### Links
+[Link to Pg 2](pg2.md)
+[Link to T&T](https://www.google.com/search?client=safari&rls=en&q=ucf+t%26T&ie=UTF-8&oe=UTF-8)
