@@ -2,18 +2,17 @@
 pe840191@ucf.edu | (863) 738-1640 | @PDEdgar30
 ## Education
 ### Ph.D. 	Texts & Technology University of Central Florida, Orlando, FL 
-    Concentration TBD; Projected Completion May 2028
-    4-year Trustees Doctoral Fellowship, 2024 Summer Mentoring Fellowship
+Concentration TBD; Projected Completion May 2028    4-year Trustees Doctoral Fellowship, 2024 Summer Mentoring Fellowship
 
 ### M.F.A.	Creative Writing : University of Alabama, Tuscaloosa, AL 
-    Thesis Track: Hybrid Memoir (Poetry & Nonfiction)
-    Thesis: “Dispatches from the Mission House : Scriptures of an Ex-MK”
+- Thesis Track: Hybrid Memoir (Poetry & Nonfiction)
+- Thesis: “Dispatches from the Mission House : Scriptures of an Ex-MK”
 ### M.A. 	Journalism & Media Studies : University of Alabama, Tuscaloosa, AL
-    Winner of Graduate Journalism Thesis Award
-    Thesis: “their concept of beauty / is manufactured / i am not -rupi kaur”: How Remediation Theory Reconciles Instapoetry’s Genre, Branded Authenticities, and Critical Positionality
+- Winner of Graduate Journalism Thesis Award
+- Thesis: “their concept of beauty / is manufactured / i am not -rupi kaur”: How Remediation Theory Reconciles Instapoetry’s Genre, Branded Authenticities, and Critical Positionality
 ### B.A. 	Florida Southern College, Lakeland, FL
-    Majors in English: Writing | Communications: Multimedia Journalism | Spanish
-    Summa Cum Laude w. Honors | Hollingsworth Scholarship recipient (Full Scholarship)
+- Majors in English: Writing | Communications: Multimedia Journalism | Spanish
+- Summa Cum Laude w. Honors | Hollingsworth Scholarship recipient (Full Scholarship)
 
 ## Research Interests
 - Technology (AI, Virtual Reality, Social Media)		
@@ -22,31 +21,28 @@ pe840191@ucf.edu | (863) 738-1640 | @PDEdgar30
 
 ## Publications
 ### Reviews
-- “The Kenyon Review’s 2024 Summer Reading Recommendations”: Our Air by Nora Treatbaby
-May 29, 	2024
+- “The Kenyon Review’s 2024 Summer Reading Recommendations”: [Our Air by Nora Treatbaby](https://kenyonreview.org/2024/05/2024-summer-reading-recommendations/)
 
 ### Poems
 - “Daddy,” “Indifferent Dog,” and “Too much has happened—” printed in Dogboy Zine
 June 2023
-- “A roundabout way of saying ‘Se Busca Asesino’,” in Ghost Proposal Issue 13
-March 20, 2023
-- “At least 18 photos of fish,” in Ekphrastic Review
-Apr 9, 2022
+- “A roundabout way of saying ‘Se Busca Asesino’,” in [Ghost Proposal](https://ghostproposal.com/PD-Edgar) Issue 13
+- “At least 18 photos of fish,” in [Ekphrastic Review](https://www.ekphrastic.net/the-ekphrastic-review/at-least-18-photos-of-fish-by-p-d-edgar)
 - “Ghazal for Arjeet,” in Going Viral, Austin Poets International’s CoronaVirus Anthology
 2020
 
 ## Editorial Experience
 ### College Composition and Communication, Editorial Assistantship
     2024 - 2025 
-### *re•mediate*<i/>*, literary magazine, [remediatelitmag.xyz](remediatelitmag.xyz)
+### *re•mediate*, literary magazine, [remediatelitmag.xyz](remediatelitmag.xyz)
 -   Founding Editor, Issue-0 Launched Aug. 1, 2024
 May 2024 -
        present
-### Kenyon Review, literary magazine, Kenyon College, Ohio
+### *Kenyon Review*, literary magazine, Kenyon College, Ohio
 - Digital Archive Associate
 June 2023 – 
        May 2024
-### Black Warrior Review, graduate-run literary magazine, Univ. of Alabama
+### *Black Warrior Review*, graduate-run literary magazine, Univ. of Alabama
 - Assistant Editor, Poetry + Nonfiction + Fiction
 - Art & Design Editor, Issues 48.2, 49.1, 49.2, 50.1, and 50.2
 - Assistant Editor, Poetry + Nonfiction
@@ -67,27 +63,27 @@ June 2023 –
 
 ## Conference Presentations, Invited Talks, & Readings
 ### Conference Panels
-- Creative Writing Studies Conference, 
-
+- Creative Writing Studies Conference, Virginia Tech, Blacksburg, VA
+““Crisis” as a Catalyzing, Generative Program in Writing Classrooms”
 
 - Florida College English Association Conference, Ybor City, FL
 “Docupoetics in 360: Experiments in Place-Memory as/in Virtual Reality”
-Oct 11-12, 2024
+
 - Digitorium - University of Alabama Digital Humanities Conference, Tuscaloosa, AL
 “ChatGPoeT: Coaching AI & Poetic Forms” (Delivered virtually) 
-Sep 12-14, 2024
+
 - American Journalism Historians Association, Southeast Symposium, Panama City, FL
 “‘The Only Character is an Old Woman, Fiercely Alive’: How Ms. Magazine’s Poetry Shaped What ‘Liberation’ Looked Like”
-Feb 3-5, 2023
+
 - Fiat Lux Undergraduate Research Fair, Lakeland, FL
-1. Honors thesis: “Who Lives, Who Dies, Who Tells Our Stor[y/ies]? : A Comparative Rhetorical Analysis of 2 Popular Histories of the United States”
-2. Model and poster presentation: “Frank Lloyd When: Visualizing FSC’s Archived Blueprints”
-3. Project proposal: “Who Lives, Who Dies, Who Tells Your Story?: A Literary Analysis of Popularly-Marketed Narratives of U.S. History”
-4. Poster presentation: “On to Avalon”: The History of Avalon Groves
+    1. Honors thesis: “Who Lives, Who Dies, Who Tells Our Stor[y/ies]? : A Comparative Rhetorical Analysis of 2 Popular Histories of the United States”
+    2. Model and poster presentation: “Frank Lloyd When: Visualizing FSC’s Archived Blueprints”
+    3. Project proposal: “Who Lives, Who Dies, Who Tells Your Story?: A Literary Analysis of Popularly-Marketed Narratives of U.S. History”
+    4. Poster presentation: “On to Avalon”: The History of Avalon Groves
 
 - Florida College English Association Conference, Melbourne, FL
 Panel Presentation: ““I Think We’re Getting Slobs”: Americentric Bias in The Ugly American
-Oct. 2017
+
 
 ### Invited Talks 
 - Alabama Scholastic Press Association
@@ -106,7 +102,6 @@ Oct. 13, 2021
 - EN 508 (3D Poetics Course), University of Alabama, by invitation of instructor 
 “Formal Intentions”: Writing in and Inventing Forms of Poetry: Introduction to Concrete and Visual Poetry, EN 508 Course, by invitation of instructor
 
-Sep. 24, 2021
 EN 200 Intro to Creative Writing Class, University of Alabama, by invitation of instructor
 “Poe-try-pography”: Print History and Digital Practice & Typographic Poetics
 Sep. 14, 2021 
