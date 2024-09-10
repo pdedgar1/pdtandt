@@ -1,13 +1,21 @@
-# explorations in dh
- from semester 1 of phd program in texts + technology
+# Explorations in Digital Humanities
+From semester 1 of phd program in texts + technology
+ 
 ## Introduciton 
+
 This is my Intro to T&T respository using GitHub Desktop and Visual Studio Code. 
+
 ## Features 
 - Feature 1 
 - Feature 2
 
-### Image of P.D. Edgar 
+### P.D. Edgar 
+
+[Link to my CV](PDEdgarCV.md)
+
+[My CV as a PDF]()
 
 ### Links
 [Link to Pg 2](pg2.md)
-[Link to T&T](https://cah.ucf.edu/textstech/)
+
+[Link to Texts & Technology at UCF](https://cah.ucf.edu/textstech/)
