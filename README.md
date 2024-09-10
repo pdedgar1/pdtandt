@@ -1,7 +1,7 @@
 # Explorations in Digital Humanities
 From semester 1 of phd program in texts + technology
  
-## Introduciton 
+## Introduction 
 
 This is my Intro to T&T respository using GitHub Desktop and Visual Studio Code. 
 
