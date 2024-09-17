@@ -15,6 +15,8 @@ This is my Intro to T&T respository using GitHub Desktop and Visual Studio Code.
 
 [My CV as a PDF]()
 
+<img src="sketches_0002_Layer 4.png" alt="PD Edgar sketch" height=300px>
+
 ### Links
 [Link to Pg 2](pg2.md)
 
