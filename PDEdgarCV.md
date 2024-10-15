@@ -57,6 +57,9 @@ June 2023 –
 - Co-Managing Editor
 - Assistant Graphic Designer
 
+### Sarah D. and L. Kirk McKay Archives Center
+- Student Archivist
+
 ## Freelance Work Experience
 ### Print Layout Design, Publications & Creative Projects
 - Manuscript Layout W. artist Kalie Boyne to print graphic novel My World Belongs To Me
@@ -183,18 +186,11 @@ Summer 2018	 Language School Intern (English Tutor, English Camp Leader, Marketi
 - “InDesign & The Creative Writer Studio Sessions,” University of Alabama, 4 sessions
 
 ### Master of Ceremonies
-Electronic Literature Organization (Un)Linked Conference Performances
-Two nights of virtual programming (9 globally-located performances) 
+- Electronic Literature Organization (Un)Linked Conference Performances
 
-Gulf Coast, The Offing, & Black Warrior Review Offsite Reading 
-Ada’s Technical Books, Seattle, WA: portion of event (introduced BWR and its 4 readers)
+- Gulf Coast, The Offing, & Black Warrior Review Offsite Reading at Ada’s Technical Books, Seattle, WA
 
-Puerto Del Sol & Black Warrior Review Launch Reading 
-James Oliver Gallery, Philadelphia, PA: half of event (introduced BWR and its 10 readers)
-
-
-Sarah D. and L. Kirk McKay Archives Center
-  Student Archivist							       
+- Puerto Del Sol & Black Warrior Review Launch Reading at James Oliver Gallery, Philadelphia, PA							       
 
 ## Awards, Fellowships, Honors
 ### Fellowships & Grants Received:
@@ -216,18 +212,6 @@ April 19, 2023 Outstanding Creativity in Print Design
 Feb. 5, 2023 3rd Place Graduate Paper
 4. Ghost Proposal, Digital Literary Magazine
 August 15, 2022 Finalist for the Ultraslant Prize
-
-#### Florida Southern College
-5. Spring 2020 Joe P. Ruthven Award for Leadership, Graduation Award
-6. Outstanding English Senior, Modern Language Department
-7. James C. Rogers Outstanding Male Senior Award, Student Gov. Assoc.
-Apr. 2019 - Student Life Awards
-Diversity Initiative of the Year (Awarded with event co-organizers)
-April 7, 2019 - Admissions Department: Southern Ambassadors Rising Star
-Spring 2018 - Florida Southern College Communications Department
-Carroll and Lucy Teeter Journalism Award
-Boy Scouts of America May 2016 Eagle Scout Rank
-Professional Service 
 
 ### Contests Judged:
 Alabama Scholastic Press Association Conference, U. Alabama, Tuscaloosa- Feb 17, 2023
