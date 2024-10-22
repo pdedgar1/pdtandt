@@ -1,8 +1,3 @@
-
-<header>
-My name is P.D. Edgar.
-</header>
-
 # Explorations in Digital Humanities
 From semester 1 of phd program in texts + technology
  
