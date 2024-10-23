@@ -1,8 +1,4 @@
 
-<header>
-   
-</header>
-
 # Explorations in Digital Humanities
 
  
@@ -31,3 +27,8 @@ Academically, I've written and presented about the poetry of *Ms.* Magazine, Ins
 [Link to Pg 2](pg2.md)
 
 [Link to Texts & Technology at UCF](https://cah.ucf.edu/textstech/)
+
+
+<footer>
+
+</footer>
