@@ -21,7 +21,7 @@ Academically, I've written and presented about the poetry of *Ms.* Magazine, Ins
 
 [Link to my CV](PDEdgarCV.md)
 
-<img src="HeadShotCopy.JPEG" alt="PD Edgar sketch" height=300px>
+<img src="assets/sketches_0002_Layer 4.png" alt="PD Edgar sketch" height=300px>
 
 ### Links
 [Link to Pg 2](pg2.md)
