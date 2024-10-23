@@ -32,7 +32,7 @@ Concentration TBD; Projected Completion May 2028    4-year Trustees Doctoral Fel
 
 ## Editorial Experience
 ### College Composition and Communication, Editorial Assistantship
-    2024 - 2025 
+2024 - 2025 
 ### *re•mediate*, literary magazine, [remediatelitmag.xyz](remediatelitmag.xyz)
 -   Founding Editor, Issue-0 Launched Aug. 1, 2024
 May 2024 -
@@ -219,25 +219,16 @@ Feb. 5, 2023 3rd Place Graduate Paper
 4. Ghost Proposal, Digital Literary Magazine
 August 15, 2022 Finalist for the Ultraslant Prize
 
-#### Florida Southern College
-5. Spring 2020 Joe P. Ruthven Award for Leadership, Graduation Award
-6. Outstanding English Senior, Modern Language Department
-7. James C. Rogers Outstanding Male Senior Award, Student Gov. Assoc.
-Apr. 2019 - Student Life Awards
-Diversity Initiative of the Year (Awarded with event co-organizers)
-April 7, 2019 - Admissions Department: Southern Ambassadors Rising Star
-Spring 2018 - Florida Southern College Communications Department
-Carroll and Lucy Teeter Journalism Award
-Boy Scouts of America May 2016 Eagle Scout Rank
-Professional Service 
-
 ### Contests Judged:
-Alabama Scholastic Press Association Conference, U. Alabama, Tuscaloosa- Feb 17, 2023
-Categories Judged: • Literary Magazine Overall 	•Literary Magazine Cover
-•Lit. Mag. Art 	•Lit. Mag. Art Portfolio 	•Lit. Mag. Photography
-•Lit. Mag. Poetry 	•Lit. Mag. Poetry Layout 	•Lit. Mag. Photography Portfolio
-•Lit. Mag. Illustration 	•Lit. Mag. Short Fiction 	•Lit. Mag. Creative Nonfiction
-•Lit. Mag. Carry-In : Illustration 	•Lit. Mag. On-site : 3 categories [Fiction / Illustration / Poetry]
+Alabama Scholastic Press Association Conference, U. Alabama, Tuscaloosa, Feb 17, 2023
+
+#### Categories Judged: 
+
+•Literary Magazine Overall, •Literary Magazine Cover,
+•Lit. Mag. Art, •Lit. Mag. Art Portfolio, •Lit. Mag. Photography,
+•Lit. Mag. Poetry, •Lit. Mag. Poetry Layout, •Lit. Mag. Photography Portfolio,
+•Lit. Mag. Illustration, •Lit. Mag. Short Fiction, •Lit. Mag. Creative Nonfiction,
+•Lit. Mag. Carry-In : Illustration, 	•Lit. Mag. On-site : Fiction / Illustration / Poetry
 
 ### Committees Served:
 MFA Representative, Undergraduate Studies Committee, English Department, U. of Alabama, Fall 2022
@@ -267,7 +258,7 @@ Florida Southern Department of English & Modern Languages: First-year mentor
 - College Media Association Conference
 
 ### Workshops Attended
-- Eco-Poetry Workshop
+- Eco-Poetry Workshop, Summer 2024
 
 ## Skills
 ### Languages: 	
@@ -280,13 +271,9 @@ Learner: html, CSS, Python, Twine
 - Adobe Express 
 - Google Drive / Suite
 
-#### Proficient 
+#### Fluent 
 - Instagram
 - Twitter/X
 - LinkedIn
 - Snapchat
 - BeReal
-- Facebook
-- Microsoft Word
-- Microsoft PowerPoint
-- Zotero
