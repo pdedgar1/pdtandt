@@ -32,7 +32,12 @@ pe840191@ucf.edu | @PDEdgar30
 2020
 
 ## Editorial Experience
+
 ### College Composition and Communication, Editorial Assistantship, 2024 - 2025 
+
+### College Composition and Communication, Editorial Assistantship
+2024 - 2025 
+
 ### *re•mediate*, literary magazine, [remediatelitmag.xyz](remediatelitmag.xyz)
 -   Founding Editor, [Issue-0](remediatelitmag.xyz/issue0) Launched Aug. 1, 2024
 
@@ -214,12 +219,15 @@ Feb. 5, 2023 3rd Place Graduate Paper
 August 15, 2022 Finalist for the Ultraslant Prize
 
 ### Contests Judged:
-Alabama Scholastic Press Association Conference, U. Alabama, Tuscaloosa- Feb 17, 2023
-Categories Judged: • Literary Magazine Overall 	•Literary Magazine Cover
-•Lit. Mag. Art 	•Lit. Mag. Art Portfolio 	•Lit. Mag. Photography
-•Lit. Mag. Poetry 	•Lit. Mag. Poetry Layout 	•Lit. Mag. Photography Portfolio
-•Lit. Mag. Illustration 	•Lit. Mag. Short Fiction 	•Lit. Mag. Creative Nonfiction
-•Lit. Mag. Carry-In : Illustration 	•Lit. Mag. On-site : 3 categories [Fiction / Illustration / Poetry]
+Alabama Scholastic Press Association Conference, U. Alabama, Tuscaloosa, Feb 17, 2023
+
+#### Categories Judged: 
+
+•Literary Magazine Overall, •Literary Magazine Cover,
+•Lit. Mag. Art, •Lit. Mag. Art Portfolio, •Lit. Mag. Photography,
+•Lit. Mag. Poetry, •Lit. Mag. Poetry Layout, •Lit. Mag. Photography Portfolio,
+•Lit. Mag. Illustration, •Lit. Mag. Short Fiction, •Lit. Mag. Creative Nonfiction,
+•Lit. Mag. Carry-In : Illustration, 	•Lit. Mag. On-site : Fiction / Illustration / Poetry
 
 ### Committees Served:
 MFA Representative, Undergraduate Studies Committee, English Department, U. of Alabama, Fall 2022
@@ -249,7 +257,7 @@ Florida Southern Department of English & Modern Languages: First-year mentor
 - College Media Association Conference
 
 ### Workshops Attended
-- Eco-Poetry Workshop
+- Eco-Poetry Workshop, Summer 2024
 
 ## Skills
 ### Languages: 	
@@ -262,13 +270,9 @@ Learner: html, CSS, Python, Twine
 - Adobe Express 
 - Google Drive / Suite
 
-#### Proficient 
+#### Fluent 
 - Instagram
 - Twitter/X
 - LinkedIn
 - Snapchat
 - BeReal
-- Facebook
-- Microsoft Word
-- Microsoft PowerPoint
-- Zotero
