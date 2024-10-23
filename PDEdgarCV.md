@@ -1,8 +1,10 @@
-# Curriculum Vitae - P.D. Edgar
-pe840191@ucf.edu | (863) 738-1640 | @PDEdgar30
+# My CV - P.D. Edgar
+pe840191@ucf.edu | @PDEdgar30
 ## Education
 ### Ph.D. 	Texts & Technology University of Central Florida, Orlando, FL 
-Concentration TBD; Projected Completion May 2028    4-year Trustees Doctoral Fellowship, 2024 Summer Mentoring Fellowship
+- Concentration TBD; 
+- 4-year Trustees Doctoral Fellowship 
+- 2024 Summer Mentoring Fellowship
 
 ### M.F.A.	Creative Writing : University of Alabama, Tuscaloosa, AL 
 - Thesis Track: Hybrid Memoir (Poetry & Nonfiction)
@@ -12,7 +14,6 @@ Concentration TBD; Projected Completion May 2028    4-year Trustees Doctoral Fel
 - Thesis: “their concept of beauty / is manufactured / i am not -rupi kaur”: How Remediation Theory Reconciles Instapoetry’s Genre, Branded Authenticities, and Critical Positionality
 ### B.A. 	Florida Southern College, Lakeland, FL
 - Majors in English: Writing | Communications: Multimedia Journalism | Spanish
-- Summa Cum Laude w. Honors | Hollingsworth Scholarship recipient (Full Scholarship)
 
 ## Research Interests
 - Technology (AI, Virtual Reality, Social Media)		
@@ -31,12 +32,15 @@ Concentration TBD; Projected Completion May 2028    4-year Trustees Doctoral Fel
 2020
 
 ## Editorial Experience
+
+### College Composition and Communication, Editorial Assistantship, 2024 - 2025 
+
 ### College Composition and Communication, Editorial Assistantship
 2024 - 2025 
+
 ### *re•mediate*, literary magazine, [remediatelitmag.xyz](remediatelitmag.xyz)
--   Founding Editor, Issue-0 Launched Aug. 1, 2024
-May 2024 -
-       present
+-   Founding Editor, [Issue-0](remediatelitmag.xyz/issue0) Launched Aug. 1, 2024
+
 ### *Kenyon Review*, literary magazine, Kenyon College, Ohio
 - Digital Archive Associate
 June 2023 – 
@@ -46,17 +50,20 @@ June 2023 –
 - Art & Design Editor, Issues 48.2, 49.1, 49.2, 50.1, and 50.2
 - Assistant Editor, Poetry + Nonfiction
 
-### LkldNow, Lakeland, FL
+### *LkldNow*, Lakeland, FL
 - Intern / General Assignment Reporter
 
-### The Southern, student newspaper
+### *The Southern*, student newspaper
 - Co-Editor-in-Chief, Opinions Editor
 - Editor-in-Chief, Copy Editor
 - News Editor
 
-### Cantilevers, student literary arts magazine
+### *Cantilevers*, student literary arts magazine
 - Co-Managing Editor
 - Assistant Graphic Designer
+
+### Sarah D. and L. Kirk McKay Archives Center
+- Student Archivist
 
 ## Freelance Work Experience
 ### Print Layout Design, Publications & Creative Projects
@@ -98,11 +105,10 @@ Panel Presentation: ““I Think We’re Getting Slobs”: Americentric Bias in
 
 
 ### Invited Talks 
-- Alabama Scholastic Press Association
-    > 1. “Lit Mags For All: How to Start a Literary Arts Magazine Your Community Reads” Co-Presented with Kate DeLay and Chloe Colbert, co-editors of BWR
-    > 2. Similar presentation, co-presented with Javier Sandoval and Jeremy Rock
+**Alabama Scholastic Press Association**
+1. “Lit Mags For All: How to Start a Literary Arts Magazine Your Community Reads” Co-Presented with Kate DeLay and Chloe Colbert, co-editors of BWR
+2. Similar presentation, co-presented with Javier Sandoval and Jeremy Rock
 
-- Lit Mag Reading Club Chat with the Editors of Black Warrior Review, Lit Mag News
     One of two editors interviewed by Becky Tuch, editor of Lit Mag News, on a live-recorded Zoom about literary magazine design
 
 - Writing Center Tutor Training Week, University of Alabama, by invitation of director
@@ -185,18 +191,11 @@ Summer 2018	 Language School Intern (English Tutor, English Camp Leader, Marketi
 - “InDesign & The Creative Writer Studio Sessions,” University of Alabama, 4 sessions
 
 ### Master of Ceremonies
-Electronic Literature Organization (Un)Linked Conference Performances
-Two nights of virtual programming (9 globally-located performances) 
+- Electronic Literature Organization (Un)Linked Conference Performances
 
-Gulf Coast, The Offing, & Black Warrior Review Offsite Reading 
-Ada’s Technical Books, Seattle, WA: portion of event (introduced BWR and its 4 readers)
+- Gulf Coast, The Offing, & Black Warrior Review Offsite Reading at Ada’s Technical Books, Seattle, WA
 
-Puerto Del Sol & Black Warrior Review Launch Reading 
-James Oliver Gallery, Philadelphia, PA: half of event (introduced BWR and its 10 readers)
-
-
-Sarah D. and L. Kirk McKay Archives Center
-  Student Archivist							       
+- Puerto Del Sol & Black Warrior Review Launch Reading at James Oliver Gallery, Philadelphia, PA							       
 
 ## Awards, Fellowships, Honors
 ### Fellowships & Grants Received:
